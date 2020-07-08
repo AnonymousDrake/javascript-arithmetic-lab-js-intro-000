@@ -22,5 +22,5 @@ function makeInt(string){
   parseInt('string',10);
 }
 function preservaInt(string){
-  parseFloat('string',10);
+  parseFloat('string');
 }
