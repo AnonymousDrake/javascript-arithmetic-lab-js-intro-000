@@ -19,6 +19,6 @@ function decrement(n){
 function makeInt(n){
   parseInt('n',10);
 }
-function preservaInt(n){
+function preserveInt(n){
   parseFloat('n');
 }
