@@ -16,9 +16,9 @@ function increment(n){
 function decrement(n){
   return (n-=1);
 }
-function makeInt(string){
-  parseInt('string');
+function makeInt(n){
+  parseInt('n',10);
 }
-function preservaInt(string){
-  parseFloat('string');
+function preservaInt(n){
+  parseFloat('n');
 }
