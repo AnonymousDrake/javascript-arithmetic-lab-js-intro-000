@@ -11,12 +11,10 @@ function divide(a,b){
   return a/b;
 }
 function increment(n){
-  var number;
-  return (number+=n);
+  return (n+=1);
 }
 function decrement(n){
-  var number;
-  return (number-=n);
+  return (n-=1);
 }
 function makeInt(string){
   parseInt('string',10);
